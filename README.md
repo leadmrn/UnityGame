@@ -1,11 +1,9 @@
 # UnityGame
 
-# Équipe :
-*Léa DE AMORIN
-*Éden BERGEL
-*Hanna BERGEL
-*Teddy BOIRIN
-*Samir CHALAL
-*Carlo BERNI
-*Xavier MEDIAVILLA DIEZ
-*Hanaa FOUTIH
+## Équipe
+* Léa DE AMORIN
+* Eden BERGEL
+* Hanna BERGEL
+* Samir CHALAL
+* Teddy BOIRIN
+* Mohamed KAROUI
