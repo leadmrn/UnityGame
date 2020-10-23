@@ -6,4 +6,6 @@
 * Hanna BERGEL
 * Samir CHALAL
 * Teddy BOIRIN
-* Mohamed KAROUI
+* Carlo BERNI
+* Xavier MEDIAVILLA DIEZ
+* Hanaa FOUTIH
