@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 5cfb44306fa5448eea61fb949de10279
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Conthrax
+  fontNames:
+  - Conthrax
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 981a39c8e31384404b5b81724548455d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
